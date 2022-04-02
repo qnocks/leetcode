@@ -30,4 +30,5 @@ fun containsDuplicate2Approach(nums: IntArray): Boolean {
 fun main() {
     val nums = intArrayOf(1, 2, 2, 4)
     containsDuplicate1Approach(nums)
+    containsDuplicate2Approach(nums)
 }
